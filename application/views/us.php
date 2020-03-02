@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SEHAT</title>
+</head>
+<body background ="<?php echo base_url(); ?>img/bg1.jpg" alt=bg1>
+	<font face="Roboto" color='black'>
+		
+	
+
+	<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" height="100%" background="">
+		<tboody>
+			<tr>
+				<td>
+					<table width="1140px" border="0"  align="center">
+						<tbody>
+							<!-- Header -->
+							<tr>
+								<td width="570px">
+									<a href="">
+									<img src="<?php echo base_url(); ?>img/logo-2001.png" alt=logo-2001 height="100px">
+
+									</a>
+								</td>
+								<td align="right">
+									<a href="<?php echo base_url(); ?>index.php/tampilan/home"><font face="Roboto" color="#5FD1B8"><B> HOME </B></font></a> &nbsp;&nbsp;&nbsp;
+									<a href="<?php echo base_url(); ?>index.php/tampilan/us"><font face="Roboto" color="#5FD1B8"><B> Tentang Kami </B></font></a> &nbsp;&nbsp;&nbsp;
+									<a href="<?php echo base_url(); ?>index.php/tampilan/layanan"><font face="Roboto" color="#5FD1B8"><B> Layanan </B></font></a> &nbsp;&nbsp;&nbsp;
+									<a href="<?php echo base_url(); ?>index.php/tampilan/produk"><font face="Roboto" color="#5FD1B8"><B> Produk </B></font></a> &nbsp;&nbsp;&nbsp;
+									<a href="<?php echo base_url(); ?>index.php/tampilan/galeri"><font face="Roboto" color="#5FD1B8"><B> Galeri </B></font></a> &nbsp;&nbsp;&nbsp;
+								</td>
+
+							</tr>
+							<tr>
+								<td height="30px"  colspan="2"></td>
+							</tr>
+							<!-- Content -->
+							<tr>
+								<td colspan="2">
+								<font size="30" color="#65a478"><b>Penyuluhan dan Penggunaan</b></font>
+                                </br>
+                                <font size="30" color="#C1DD8E"><b>Obat-Obatan Generik Bermutuu</b></font>
+								<br>
+								<br>
+								<p>
+								<b>========</b>
+								<br>
+								<br>
+								<font size="5"><b>Tentang Zona Sehat</b></font>
+								<br>
+								<br>
+								Zona Sehat merupakan sebuah web yang memuat informasi dalam bidang kesehatan khususnya obat-obatan generik.
+								<br>
+								<br>
+								Zona sehat akan membantu pengunjung web untuk lebih memahami tentang obat-obatan generik seperti kegunaan,
+								manfaat, serta efek samping dari obat generik.
+								<br>
+								<br>
+								KONTAK:
+								<br>
+								<br>
+								<img src="<?php echo base_url(); ?>img/wa.png" alt=wa height="40px">
+								WA: 092843987486
+								<br>
+								<img src="<?php echo base_url(); ?>img/line.png" alt=line height="40px">
+								LINE: @KDNFB89
+								</p>
+								</td>
+							</tr>
+							
+							<tr>
+								<td height="30px"  colspan="2"></td>
+							</tr>
+							
+							<tr>
+								<td colspan="2">
+								<img src="<?php echo base_url(); ?>img/content1.png" alt=content1 width="100%"">
+
+								</td>
+							</tr>
+
+							<tr>
+								<td height="30px"  colspan="2"></td>
+							</tr>
+							<!-- Footer -->
+							<tr>
+								<td>
+								<img src="<?php echo base_url(); ?>img/logo-200-black1.png" alt=logo-200-black1 height="35px">
+								 Copyright &copy; 2019 TUGAS UAS PEMROGRAMAN WEB LANJUT</td>
+								</td>
+								<td>
+									
+								</td>
+							</tr>
+
+
+						</tbody>
+					</table>
+				</td>
+			</tr>
+		</tboody>
+	</table>
+
+
+
+
+
+	</font>
+</body>
+</html>
